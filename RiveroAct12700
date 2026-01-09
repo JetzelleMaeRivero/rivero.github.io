@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>RiveroAct12700</title>
+</head>
+<body class="bg-sky-800">
+    <h1 class="text-center text-2xl font-bold font-serif pt-6">
+        HELLO ENGENES!
+    </h1>
+
+    <div class="bg-red-200">
+        <h1 class="text-center text-xl font-bold font-serif pt-6 pt-6">
+            Engene Playlist Wrapped!
+        </h1>    
+    </div>
+
+    <div class="grid grid-cols-5 gap-2">
+
+    <div class="pl-8 gap-3 columns-2 pt-4">
+        <img class="h-48 w-98" src="image/BORDER _ CARNIVAL.jpg" alt="">
+        <h3 class="text-sm font-bold font-serif">Boarder Carnival</h3>
+    </div>
+
+    <div class="gap-3 columns-2 pt-4">
+        <img class=" h-48 w-98"  src="image/bite me.webp" alt="">
+        <h3 class="text-sm font-bold font-serif">Bite Me</h3>
+    </div>
+
+    <div class="gap-3 columns-2 pt-4">
+        <img class="h-48 w-98" src="image/shout out.webp" alt="">
+        <h3 class="text-sm font-bold font-serif">Shout Out</h3>
+    </div>
+
+    <div class="gap-3 columns-2 pt-4">
+        <img class="h-48 w-98" src="image/sweet venom.webp" alt="">
+        <h3 class="text-sm font-bold font-serif">Sweet Venom</h3>
+    </div>
+
+    <div class="gap-3 columns-2 pt-4">
+        <img class="pr-8 h-48 w-98" src="dimension.webp" alt="">
+        <h3 class="text-sm font-bold font-serif">Dimension</h3>
+    </div>
+</div>
+</body>
+</html>
